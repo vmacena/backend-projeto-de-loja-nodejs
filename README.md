@@ -1,6 +1,6 @@
 # backend-projeto-de-loja
 
-Linguagem: Node JS
+Linguagens: Node JS e TypeScript
 
 Aplicações usadas: Beekepper e Insomnia para criar rotas, gerar tokens e analisar DB (PostgreSQL);
 
