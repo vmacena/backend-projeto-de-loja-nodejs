@@ -2,7 +2,7 @@
 
 Node JS/ TypeScript
 
-Beekepper e Insomnia para criar rotas, gerar tokens e analisar DB (PostgreSQL);
+Beekepper e Insomnia para rotas, gerar tokens e analisar DB (PostgreSQL);
 
 
 
