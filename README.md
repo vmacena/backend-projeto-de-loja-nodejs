@@ -1,6 +1,6 @@
 # backend-projeto-de-loja
 
-Node JS/ TypeScript
+NodeJS/ TypeScript
 
 PostgreSQL para DB.
 
